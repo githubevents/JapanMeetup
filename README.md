@@ -36,4 +36,6 @@ https://githubvroadshow-jpn.splashthat.com/
 
 ## Q&A
 
-ご挨拶、新機能の紹介のセッションについてのご質問を[こちらのDiscussions](https://github.com/githubevents/JapanMeetup/discussions/2)にて受け付けます。是非ご気軽にコメント下さい。
+ご挨拶、新機能の紹介のセッションについてのご質問を[こちらのディスカッション](https://github.com/githubevents/JapanMeetup/discussions/2)にて受け付けます。GitHubberがオンラインで質問に答えるだけでなく、Q&Aセッションにてディスカッションスレッドから質問をピックアップして回答もいたしますので、ぜひ参加してください。
+
+ただし、ディスカッションはイベントに参加するすべての人にとってフレンドリーでかつ有益な場となるよう、[行動規範](https://github.com/githubevents/JapanMeetup/blob/master/CODE_OF_CONDUCT.md)に則って投稿頂くようお願いいたします。
