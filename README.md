@@ -12,6 +12,10 @@ GitHubでは1年に1度、米国外でGitHub Satelliteというカンファレ�
 
 2020年8月5日 2:30pm - 5:00pm
 
+## お申し込み
+
+https://githubvroadshow-jpn.splashthat.com/
+
 ## アジェンダ
 
 | Session  | Time (JST) | Speaker  |
