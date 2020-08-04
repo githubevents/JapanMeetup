@@ -2,6 +2,10 @@
 
 # GitHub Enterprise Virtual Roadshow Japan
 
+[お申し込み](https://githubvroadshow-jpn.splashthat.com/)
+&nbsp;•&nbsp;
+[新機能の紹介セッションのQ&A](https://githubvroadshow-jpn.splashthat.com/)
+
 ## 概要
 
 GitHubでは1年に1度、米国外でGitHub Satelliteというカンファレンスを行っています。今年はCOVID-19により、フランスで実施する予定だったカンファレンスを急遽オンラインに変更し、[5月6日に実施](https://bit.ly/2z7rgZ4)いたしました。
