@@ -16,6 +16,12 @@ GitHubでは1年に1度、米国外でGitHub Satelliteというカンファレ�
 
 2020年8月5日 2:30pm - 5:00pm
 
+## Q&A
+
+ご挨拶、新機能の紹介のセッションについてのご質問を[こちらのディスカッション](https://github.com/githubevents/JapanMeetup/discussions/2)にて受け付けます。GitHubberがオンラインで質問に答えるだけでなく、Q&Aセッションにてディスカッションスレッドから質問をピックアップして回答もいたしますので、ぜひ参加してください。
+
+ただし、ディスカッションはイベントに参加するすべての人にとってフレンドリーでかつ有益な場となるよう、[行動規範](https://github.com/githubevents/JapanMeetup/blob/master/CODE_OF_CONDUCT.md)に則って投稿頂くようお願いいたします。
+
 ## お申し込み
 
 https://githubvroadshow-jpn.splashthat.com/
@@ -32,10 +38,3 @@ https://githubvroadshow-jpn.splashthat.com/
 | ゲストスピーカー | 3:55pm - 4:25pm | 一般社団法人 コード・フォー・ジャパン 代表理事 関 治之 |
 | パネルディスカッション ”エンジニアのリモートワーク” | 4:25pm - 5:05pm | コニカミノルタ株式会社 IIoTサービスPF開発統括部戦略推進部マネージャー 五寳 匡郎, GMOペパボ株式会社 技術部執行役員 VP of Engineering 柴田 博志 |
 | クロージング | 5:05pm | |
-
-
-## Q&A
-
-ご挨拶、新機能の紹介のセッションについてのご質問を[こちらのディスカッション](https://github.com/githubevents/JapanMeetup/discussions/2)にて受け付けます。GitHubberがオンラインで質問に答えるだけでなく、Q&Aセッションにてディスカッションスレッドから質問をピックアップして回答もいたしますので、ぜひ参加してください。
-
-ただし、ディスカッションはイベントに参加するすべての人にとってフレンドリーでかつ有益な場となるよう、[行動規範](https://github.com/githubevents/JapanMeetup/blob/master/CODE_OF_CONDUCT.md)に則って投稿頂くようお願いいたします。
